@@ -54,8 +54,8 @@ experience:
     description: |2-
         Responsibilities include:    
         
-            * Implement homogenization procedure for Honeycomb composite materials   
-            * Modeling and optimization methods for variable stiffness composites 
+        * Implement homogenization procedure for Honeycomb composite materials   
+        * Modeling and optimization methods for variable stiffness composites 
     
   - title: Researcher
     company: Institute of Technical Mechanics (JKU Linz)
@@ -65,11 +65,11 @@ experience:
     description: |2-
         Responsibilities include:    
         
-            * Project: "Capacitor Noise" (By ACCM for SIEMENS). 
-            * Homogenization of the complex multi-material interior structure of the capacitor   
-            * Acoustic and Modal analysis of capacitor 
-            * Project: “Laval rotor floating ring bearings” (By ACCM for SIEMENS).
-            * Simulations of speedup of the horizontal rotor with full-floating ring bearings
+        * Project: "Capacitor Noise" (By ACCM for SIEMENS). 
+        * Homogenization of the complex multi-material interior structure of the capacitor   
+        * Acoustic and Modal analysis of capacitor 
+        * Project: “Laval rotor floating ring bearings” (By ACCM for SIEMENS).
+        * Simulations of speedup of the horizontal rotor with full-floating ring bearings
     
   - title: Research assistant
     company: Chair of Theoretical Mechanics, Saint-Petersburg State Polytechnic University (SPbSPU)
@@ -79,9 +79,9 @@ experience:
     description: |2-
         Responsibilities include:    
         
-            * Project: “Analysis of strength properties of lightweight polyamide cage of journal bearing” (By IPME RAS)
-            * Three-dimensional models of polyamide bearing cage  
-            * Analysis of strength properties of bearing cage 
+        * Project: “Analysis of strength properties of lightweight polyamide cage of journal bearing” (By IPME RAS)
+        * Three-dimensional models of polyamide bearing cage  
+        * Analysis of strength properties of bearing cage 
     
 design:
   columns: '2'
