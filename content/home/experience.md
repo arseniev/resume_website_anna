@@ -25,7 +25,6 @@ experience:
   - title: Research and teaching associate
     company: Chair of Computational Mechanics, TUM
     company_url: 'https://www.bgu.tum.de/cm/startseite/'
-    company_logo: org-gc
     location: Munich, Germany
     date_start: '2013-05-01'
     date_end: '2017-03-01'
