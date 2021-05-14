@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.-Ing. Anna Arsenyeva
+title: Dr. Anna Arsenyeva
 
 # Is this the primary user of the site?
 superuser: true
