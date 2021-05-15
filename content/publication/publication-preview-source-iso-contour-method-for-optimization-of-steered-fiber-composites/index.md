@@ -1,6 +1,5 @@
 ---
-title: Publication Preview Source Iso-contour method for optimization of
-  steered-fiber composites
+title: Iso-contour method for optimization of steered-fiber composites
 publication_types:
   - "1"
 authors:
