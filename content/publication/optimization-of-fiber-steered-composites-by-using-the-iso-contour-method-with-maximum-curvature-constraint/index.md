@@ -22,7 +22,7 @@ abstract: The paper presents a novel method for the optimization of
   composite optimization, and obtained designs provide significant improvement
   over simple laminates.
 draft: false
-featured: false
+featured: true
 tags:
   - Fibre steered laminate
   - Composite material optimization
