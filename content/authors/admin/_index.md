@@ -68,4 +68,4 @@ highlight_name: false
 
 I'm really keen on strucrures and optimization, especially when it come to composite materials and materials with microstructure. I've obtained my PhD in Engineering at the TU Munich at 2020, and I've been participating in various scientific projects, ranging from aircraft wing box optimal design, optimization of steered-fiber composite parts, analytical rotordynamics up to acoustics analysis for electronic components. Recently I decided to dive into data science and machine learning to support my analytical skills.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
