@@ -33,5 +33,5 @@ image:
   filename: iso_contour_buckling.png
   focal_point: Smart
   preview_only: false
-date: 2021-05-15T10:13:05.401Z
+date: 2016-06-15T10:00:00.000Z
 ---
