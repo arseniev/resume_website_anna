@@ -30,7 +30,7 @@ tags:
   - Iso-contour Method
   - Manufacturing constraints
 image:
-  filename: iso_contour_buckling.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-06-15T10:00:00.000Z
