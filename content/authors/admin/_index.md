@@ -45,12 +45,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dr-ing-anna-arsenyeva-b851041a2/  
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin
+- icon: fa-researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/in/dr-ing-anna-arsenyeva-b851041a2/
+  link: https://www.researchgate.net/profile/Anna-Arsenyeva   
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
