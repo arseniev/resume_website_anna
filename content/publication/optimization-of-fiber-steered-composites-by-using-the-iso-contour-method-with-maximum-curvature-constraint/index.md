@@ -2,7 +2,7 @@
 title: Optimization of fiber-steered composites by using the Iso-contour method
   with maximum curvature constraint
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Anna Arsenyeva
   - Fabian Duddeck
